@@ -3,7 +3,32 @@
   .uk-flex.uk-flex-wrap.uk-flex-center
     .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
       h1
-        i.fas.fa-volume-mute.fa-3x
+        i.fas.fa-chess-pawn.fa-3x
+      h3 Addio Mondo Crudele
+      button.uk-button.uk-button-danger.uk-button-large
+        i.fas.fa-.fa-2x.uk-margin-small-right
+        | Oppress Me
+
+
+    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
+      h1
+        i.fas.fa-bezier-curve.fa-3x
+      h3 Addio Mondo Crudele
+      button.uk-button.uk-button-default.uk-button-large
+        i.fas.fa-sun.fa-2x.uk-margin-small-right
+        | Oppress Me
+
+    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom
+      h1
+        i.fas.fa-coffee.fa-3x
+      h3 Addio Mondo Crudele
+      button.uk-button.uk-button-primary.uk-button-large
+        i.material-icons.md-36.uk-margin-small-right all_inclusive
+        | Oppress Me
+
+    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
+      h1
+        i.fas.fa-chess-pawn.fa-3x
       h3 Addio Mondo Crudele
       button.uk-button.uk-button-danger.uk-button-large
         i.fas.fa-.fa-2x.uk-margin-small-right
@@ -20,7 +45,7 @@
 
     .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom
       h1
-        i.fas.fa-music.fa-3x
+        i.fas.fa-code.fa-3x
       h3 Addio Mondo Crudele
       button.uk-button.uk-button-primary.uk-button-large
         i.material-icons.md-36.uk-margin-small-right all_inclusive

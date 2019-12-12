@@ -1,43 +1,43 @@
 <template lang="pug">
-.home
+.home.uk-margin-large-top
   .uk-flex.uk-flex-wrap.uk-flex-center
-    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
+    .uk-card.uk-card-primary.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
       h1
-        i.fas.fa-chess-pawn.fa-3x
+        i.material-icons.md-72 toys
       h3 Addio Mondo Crudele
-      button.uk-button.uk-button-danger.uk-button-large
-        i.fas.fa-.fa-2x.uk-margin-small-right
+      button.uk-button.uk-button-default.uk-button-large
+        i.fas.fa-bullseye.fa-2x.uk-margin-small-right
         | Oppress Me
 
 
     .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
       h1
-        i.fas.fa-bezier-curve.fa-3x
+        i.material-icons.md-72 directions_bike
       h3 Addio Mondo Crudele
       button.uk-button.uk-button-default.uk-button-large
         i.fas.fa-sun.fa-2x.uk-margin-small-right
         | Oppress Me
 
-    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom
+    .uk-card.uk-card-secondary.uk-card-body.uk-hover.uk-margin-large-bottom
       h1
-        i.fas.fa-coffee.fa-3x
+        i.material-icons.md-72 beach_access
       h3 Addio Mondo Crudele
-      button.uk-button.uk-button-primary.uk-button-large
+      button.uk-button.uk-background-primary.uk-button-large
         i.material-icons.md-36.uk-margin-small-right all_inclusive
         | Oppress Me
 
     .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
       h1
-        i.fas.fa-chess-pawn.fa-3x
+         i.material-icons.md-72 code
       h3 Addio Mondo Crudele
       button.uk-button.uk-button-danger.uk-button-large
-        i.fas.fa-.fa-2x.uk-margin-small-right
+        i.material-icons.md-24.uk-margin-small-right toys
         | Oppress Me
 
 
     .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
       h1
-        i.fas.fa-university.fa-3x
+        i.material-icons.md-72 toys
       h3 Addio Mondo Crudele
       button.uk-button.uk-button-default.uk-button-large
         i.fas.fa-sun.fa-2x.uk-margin-small-right
@@ -45,7 +45,7 @@
 
     .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom
       h1
-        i.fas.fa-code.fa-3x
+        i.material-icons.md-72 my_location
       h3 Addio Mondo Crudele
       button.uk-button.uk-button-primary.uk-button-large
         i.material-icons.md-36.uk-margin-small-right all_inclusive

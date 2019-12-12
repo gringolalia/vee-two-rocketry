@@ -1,29 +1,29 @@
 <template lang="pug">
 .home
   .uk-flex.uk-flex-wrap.uk-flex-center
-    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom
-      //- img(alt='Vue logo' src='../assets/images/alchemy-sulphuric.svg' height="75px")
+    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
       h1
-        i.fas.fa-mosque.fa-3x
+        i.fas.fa-volume-mute.fa-3x
       h3 Addio Mondo Crudele
       button.uk-button.uk-button-danger.uk-button-large
-        i.fas.fa-sun.fa-2x.uk-margin-small-right
+        i.fas.fa-.fa-2x.uk-margin-small-right
         | Oppress Me
-    .uk-card.uk-card-default.uk-card-body.uk-margin-left.uk-hover
-      //- img(alt='Vue logo' src='../assets/images/alchemy-sulphuric.svg' height="75px")
+
+
+    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
       h1
         i.fas.fa-university.fa-3x
       h3 Addio Mondo Crudele
       button.uk-button.uk-button-default.uk-button-large
         i.fas.fa-sun.fa-2x.uk-margin-small-right
         | Oppress Me
-    .uk-card.uk-card-default.uk-card-body.uk-margin-left.uk-hover
-      //- img(alt='Vue logo' src='../assets/images/alchemy-sulphuric.svg' height="75px")
+
+    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom
       h1
-        i.fas.fa-chess-rook.fa-3x
+        i.fas.fa-music.fa-3x
       h3 Addio Mondo Crudele
       button.uk-button.uk-button-primary.uk-button-large
-        i.fas.fa-sun.fa-2x.uk-margin-small-right
+        i.material-icons.md-36.uk-margin-small-right all_inclusive
         | Oppress Me
 
   .uk-flex.uk-flex-center.uk-margin-large-top

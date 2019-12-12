@@ -41,8 +41,8 @@
           | Kidding Aside
 
 
-      #offcanvas-usage.uk-width-large(uk-offcanvas)
-        .uk-offcanvas-bar
+      #offcanvas-usage.uk-width-large(uk-offcanvas="mode: push")
+        .uk-offcanvas-bar( style="width: 400px")
           button.uk-offcanvas-close(type='button' uk-close)
           h3
             i.fas.fa-sun.fa-3x.uk-margin-small-right
@@ -52,7 +52,7 @@
             i.material-icons.md-48.uk-margin-small-right keyboard_arrow_down
             | Acknowledge
 
-          .uk-flex.uk-flex-row.uk-flex-middle.uk-text-secondary
+          .uk-flex.uk-flex-row.uk-flex-middle.uk-text-secondary.uk-flex-center
             ul.uk-iconnav
               li
                 a(href='#' uk-icon='icon: quote-right; ratio: 1.5')

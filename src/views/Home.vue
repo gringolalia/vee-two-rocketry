@@ -5,7 +5,7 @@
       h1
         i.material-icons.md-72 toys
       h3 Addio Mondo Crudele
-      button.uk-button.uk-button-default.uk-button-large
+      a.uk-button.uk-button-default.uk-button-large(href="#downward")
         i.fas.fa-bullseye.fa-2x.uk-margin-small-right
         | Oppress Me
 
@@ -51,7 +51,7 @@
         i.material-icons.md-36.uk-margin-small-right all_inclusive
         | Oppress Me
 
-  .uk-flex.uk-flex-center.uk-margin-large-top
+  .uk-flex.uk-flex-center.uk-margin-large-top#downward
   
     div(class="uk-child-width-1-3@m" uk-grid)
       div
@@ -59,13 +59,15 @@
           .uk-card-media-top
             img(src='../assets/images/morelinot.jpg' alt)
           .uk-card-body
-            h3.uk-card-title Media Top
+            h3.uk-card-title Infernal Machine Seven
             p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+            button.uk-button.uk-button-primary.uk-button-medium.uk-align-center More Info
       div
         .uk-card.uk-card-default.uk-card-body.uk-card-hover
           .uk-card-body
-            h3.uk-card-title Media Bottom
+            h3.uk-card-title Infernal Machine Eight
             p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+            button.uk-button.uk-button-primary.uk-button-medium.uk-align-center More Info
           .uk-card-media-bottom
             img(src='../assets/images/morelinot.jpg' alt)
 
@@ -74,20 +76,9 @@
           .uk-card-media-top
             img(src='../assets/images/morelinot.jpg' alt)
           .uk-card-body
-            h3.uk-card-title Media Top
+            h3.uk-card-title Infernal Machine Nine
             p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
-
-    //- .uk-card.uk-card-default.uk-card-body.uk-margin-left
-    //-   img(alt='Vue logo' src='../assets/images/alchemy-sulphuric.svg' height="75px")
-    //-   h3 Addio Mondo Crudele
-    //-   button.uk-button.uk-button-primary.uk-button-large Oppress Me
-    //- .uk-card.uk-card-default.uk-card-body.uk-margin-left
-    //-   img(alt='Vue logo' src='../assets/images/alchemy-sulphuric.svg' height="75px")
-    //-   h3 Addio Mondo Crudele
-    //-   button.uk-button.uk-button-primary.uk-button-large Oppress Me
-
-    
-    
+            button.uk-button.uk-button-primary.uk-button-medium.uk-align-center More Info
 </template>
 
 <script>

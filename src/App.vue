@@ -41,7 +41,7 @@
           | Kidding Aside
 
 
-      #offcanvas-usage.uk-width-large(uk-offcanvas="mode: push")
+      #offcanvas-usage.uk-width-large(uk-offcanvas="overlay: true")
         .uk-offcanvas-bar( style="width: 400px")
           button.uk-offcanvas-close(type='button' uk-close)
           h3

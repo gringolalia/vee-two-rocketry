@@ -79,6 +79,7 @@
             h3.uk-card-title Infernal Machine Nine
             p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
             button.uk-button.uk-button-primary.uk-button-medium.uk-align-center More Info
+
 </template>
 
 <script>

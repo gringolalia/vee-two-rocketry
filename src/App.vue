@@ -14,34 +14,34 @@
           ul.uk-nav.uk-dropdown-nav
             li.uk-nav-header Even-Toed
             li.uk-active
-              a(href='#') Elephants
+              a(href='/elephant') Elephants
             li
-              a(href='#') Camel
+              a(href='/camel') Camel
             li
-              a(href='#') Cows 
+              a(href='/bovine') Cows 
             li
-              a(href='#') Deer
+              a(href='deer') Deer
             li
-              a(href='#') Goats
+              a(href='/goats') Goats
             li.uk-nav-divider
             li.uk-nav-header Odd-Toed
             li
-              a(href='#') Giraffe
+              a(href='/giraffe') Giraffe
             li
-              a(href='#') Hippos
+              a(href='/hippo') Hippos
             li
-              a(href='#') Antelopes
+              a(href='/antelope') Antelopes
             li
-              a(href='#') Zebra
+              a(href='/zebra') Zebra
             li
-              a(href='#') Rhinoceros
+              a(href='/rhino') Rhinoceros
 
         button.uk-button.uk-button-default.uk-button-large.uk-margin-small-left(type="button" uk-toggle='target: #offcanvas-usage' class="uk-visible@m")
-          i.material-icons.uk-margin-small-right waves
+          i.material-icons.uk-margin-small-right beach_access
           | Kidding Aside
 
 
-      #offcanvas-usage.uk-width-large(uk-offcanvas="overlay: true")
+      #offcanvas-usage.uk-width-large(uk-offcanvas="flip:true")
         .uk-offcanvas-bar( style="width: 400px")
           button.uk-offcanvas-close(type='button' uk-close)
           h3

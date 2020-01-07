@@ -2,7 +2,7 @@
 #app
   nav.uk-navbar-container.uk-margin(uk-navbar uk-sticky)
     .uk-navbar-left.with.dignity
-      a.uk-navbar-item.uk-logo.with.dignity(href='#') 
+      a.uk-navbar-item.uk-logo.with.dignity(href='/ ') 
         i.fas.fa-sun.fa-2x.uk-margin-small-right
         | Engenho Novo LLC
     .uk-navbar-right
@@ -20,21 +20,21 @@
             li
               a(href='/bovine') Cows 
             li
-              a(href='deer') Deer
+              a(href='/deer') Deer
             li
               a(href='/goats') Goats
             li.uk-nav-divider
             li.uk-nav-header Odd-Toed
             li
-              a(href='/giraffe') Giraffe
+              a(href='/giraffe') Giraffes
             li
               a(href='/hippo') Hippos
             li
               a(href='/antelope') Antelopes
             li
-              a(href='/zebra') Zebra
+              a(href='/zebra') Zebrae
             li
-              a(href='/rhino') Rhinoceros
+              a(href='/rhino') Rhinoceroses
 
         button.uk-button.uk-button-default.uk-button-large.uk-margin-small-left(type="button" uk-toggle='target: #offcanvas-usage' class="uk-visible@m")
           i.material-icons.uk-margin-small-right beach_access
@@ -45,7 +45,7 @@
         .uk-offcanvas-bar( style="width: 400px")
           button.uk-offcanvas-close(type='button' uk-close)
           h3
-            i.fas.fa-sun.fa-3x.uk-margin-small-right
+            i.fas.fa-sun.fa-2x.uk-margin-small-right
             | Engenho Novo LLP
           p.uk-text-left Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
           button.uk-button.uk-button-large.uk-button-danger.uk-margin-large-bottom

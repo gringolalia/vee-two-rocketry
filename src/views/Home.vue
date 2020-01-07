@@ -1,5 +1,5 @@
 <template lang="pug">
-.home.uk-margin-large-top
+div.uk-margin-large-top
 
 	.uk-flex.uk-flex-wrap.uk-flex-center
 
@@ -85,13 +85,5 @@
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
-export default {
-	name: 'home',
-	components: {
-		HelloWorld
-	}
-}
 </script>

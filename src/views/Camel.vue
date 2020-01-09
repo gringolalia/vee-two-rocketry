@@ -4,54 +4,11 @@
     .uk-card.uk-card-primary.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
       h1
         i.material-icons.md-72 toys
-      h3 Addio Mondo Crudele
+      h3 Ali Kamel
+      h4 Globo Mente
       a.uk-button.uk-button-default.uk-button-large(href="#downward")
         i.fas.fa-bullseye.fa-2x.uk-margin-small-right
-        | Oppress Me
-
-
-    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
-      h1
-        i.material-icons.md-72 directions_bike
-      h3 Addio Mondo Crudele
-      button.uk-button.uk-button-default.uk-button-large
-        i.fas.fa-sun.fa-2x.uk-margin-small-right
-        | Oppress Me
-
-    .uk-card.uk-card-secondary.uk-card-body.uk-hover.uk-margin-large-bottom
-      h1
-        i.material-icons.md-72 beach_access
-      h3 Addio Mondo Crudele
-      button.uk-button.uk-background-primary.uk-button-large
-        i.material-icons.md-36.uk-margin-small-right all_inclusive
-        | Oppress Me
-
-    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
-      h1
-         i.material-icons.md-72 code
-      h3 Addio Mondo Crudele
-      button.uk-button.uk-button-danger.uk-button-large
-        i.material-icons.md-24.uk-margin-small-right toys
-        | Oppress Me
-
-
-    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
-      h1
-        i.material-icons.md-72 toys
-      h3 Addio Mondo Crudele
-      button.uk-button.uk-button-default.uk-button-large
-        i.fas.fa-sun.fa-2x.uk-margin-small-right
-        | Oppress Me
-
-    .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom
-      h1
-        i.material-icons.md-72 my_location
-      h3 Addio Mondo Crudele
-      button.uk-button.uk-button-primary.uk-button-large
-        i.material-icons.md-36.uk-margin-small-right all_inclusive
-        | Oppress Me
-
-  .uk-flex.uk-flex-center.uk-margin-large-top#downward
+        | Imprensa
   
     div(class="uk-child-width-1-3@m" uk-grid)
       div

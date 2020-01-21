@@ -7,7 +7,7 @@
         | Engenho Novo LLC
     .uk-navbar-right
       .uk-navbar-item
-        button.uk-button.uk-button-default.uk-button-large(type="button")
+        button.uk-button.uk-button-default.uk-button-large(class="uk-visible@m" type="button")
           i.material-icons.uk-margin-small-right keyboard_arrow_down
           |  Ungulates
         div(uk-dropdown="mode: click")

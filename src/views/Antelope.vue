@@ -9,13 +9,13 @@
           .uk-card-media-top
             img(src='../assets/images/morelinot.jpg' alt)
           .uk-card-body
-            h3.uk-card-title Infernal Machine Seven
+            h3.uk-card-title Infernal Machine 47
             p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
             button.uk-button.uk-button-primary.uk-button-medium.uk-align-center More Info
       div
         .uk-card.uk-card-default.uk-card-body.uk-card-hover
           .uk-card-body
-            h3.uk-card-title Infernal Machine Eight
+            h3.uk-card-title Infernal Machine 48
             p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
             button.uk-button.uk-button-primary.uk-button-medium.uk-align-center More Info
           .uk-card-media-bottom
@@ -26,7 +26,7 @@
           .uk-card-media-top
             img(src='../assets/images/morelinot.jpg' alt)
           .uk-card-body
-            h3.uk-card-title Infernal Machine Nine
+            h3.uk-card-title Infernal Machine 49
             p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
             button.uk-button.uk-button-primary.uk-button-medium.uk-align-center More Info
 

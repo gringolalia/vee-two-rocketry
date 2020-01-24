@@ -9,6 +9,24 @@
       a.uk-button.uk-button-default.uk-button-large(href="#downward")
         i.fas.fa-bullseye.fa-2x.uk-margin-small-right
         | Imprensa
+
+    .uk-card.uk-card-primary.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
+      h1
+        i.material-icons.md-72 toys
+      h3 Ali Kamel
+      h4 Globo Mente
+      a.uk-button.uk-button-default.uk-button-large(href="#downward")
+        i.fas.fa-bullseye.fa-2x.uk-margin-small-right
+        | Imprensa
+
+    .uk-card.uk-card-primary.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
+      h1
+        i.material-icons.md-72 toys
+      h3 Ali Kamel
+      h4 Globo Mente
+      a.uk-button.uk-button-default.uk-button-large(href="#downward")
+        i.fas.fa-bullseye.fa-2x.uk-margin-small-right
+        | Imprensa
   
     div(class="uk-child-width-1-3@m" uk-grid)
       div

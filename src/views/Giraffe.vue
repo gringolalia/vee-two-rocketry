@@ -5,9 +5,21 @@
       h1
         i.material-icons.md-72 toys
       h3 Gaffes by Giraffes
-      a.uk-button.uk-button-default.uk-button-large(href="#downward")
-        i.fas.fa-bullseye.fa-2x.uk-margin-small-right
-        | Suppress Me
+
+      a.uk-button.uk-button-default(href='#modal-sections' uk-toggle) All Mod Cons    
+
+      #modal-sections(uk-modal)
+        .uk-modal-dialog.uk-margin-auto-vertical
+          button.uk-modal-close-default(type='button' uk-close)
+          .uk-modal-header.uk-background-secondary.uk-light
+            h2.uk-modal-title
+              i.fas.fa-sun.fa-2x.uk-margin-small-right
+              | Engenho Novo LLC
+          .uk-modal-body
+            p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          .uk-modal-footer.uk-text-right.uk-background-primary
+            button.uk-button.uk-button-primary.uk-modal-close.uk-light.uk-margin-small-right(type='button') Acceptance
+            button.uk-button.uk-button-primary.uk-modal-close.uk-light(type='button') Rejection
 
 
     .uk-card.uk-card-default.uk-card-body.uk-hover.uk-margin-large-bottom.uk-margin-medium-right
